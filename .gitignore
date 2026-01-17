@@ -1,0 +1,58 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+bld/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+*.nupkg
+packages/
+!packages/build/
+
+# Logs
+*.log
+Logs/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+
+# NCrunch
+*.ncrunchproject
+*.ncrunchsolution
+
+# Compiled
+*.dll
+*.exe
+*.pdb
+
+# Cache
+*.cache
+project.lock.json
+
+# Publish
+PublishOutput/
