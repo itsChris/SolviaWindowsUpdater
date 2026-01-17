@@ -1040,9 +1040,9 @@ SolviaWindowsUpdater search --log-level Debug --log-path C:\Logs\wu-debug.log
 
 ## License
 
-Copyright (c) Solvia. All rights reserved.
+MIT License - see [LICENSE](LICENSE) for details.
 
-This software is proprietary. Unauthorized copying, distribution, or modification is prohibited.
+Copyright (c) 2012-2026 Solvia
 
 ---
 
